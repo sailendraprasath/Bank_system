@@ -8,6 +8,7 @@ def greetings():
     print("\t4) Deposit Amount")
     print("\t5) Withdraw Amount")
     print("\t6) EXIT")
+    print()
 def acc_creation():
     client_name = input("Enter Your Full Name here: ")
     client_ph_num = int(input("Enter your Phone number here: "))
